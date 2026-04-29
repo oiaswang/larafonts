@@ -14,18 +14,18 @@
       "format": "truetype"
     },
     {
+      "name": "CochinBold",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/CochinBold.otf",
+      "format": "opentype"
+    },
+    {
       "name": "Bodoni72",
-      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Bodoni72.ttc",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Bodoni72.ttf",
       "format": "truetype"
     },
     {
-      "name": "BodoniSvtyTwoOSITCTTBold",
+      "name": "BodoniBold",
       "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/BodoniSvtyTwoOSITCTTBold.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Cochin",
-      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Cochin.ttc",
       "format": "truetype"
     }
   ]
