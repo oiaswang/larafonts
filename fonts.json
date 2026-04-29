@@ -1,88 +1,31 @@
 {
-  "repo_name": "LouFonts",
+  "repo_name": "rvrenr",
   "repo_author": "lou",
   "repo_icon": "https://github.com/oiaswang.png",
   "fonts": [
     {
       "name": "SFUI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/SFUI.ttf",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/SFUI.ttf",
       "format": "truetype"
     },
     {
-      "name": "Chococooky",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Chococooky.ttf",
+      "name": "Geometric",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Geometric.ttf",
       "format": "truetype"
     },
     {
-      "name": "Comic Sans MS",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Comic%20Sans%20MS.ttf",
+      "name": "Bodoni72",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Bodoni72.ttc",
       "format": "truetype"
     },
     {
-      "name": "DejaVu Sans Condensed",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansCondensed.ttf",
+      "name": "BodoniSvtyTwoOSITCTTBold",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/BodoniSvtyTwoOSITCTTBold.ttf",
       "format": "truetype"
     },
     {
-      "name": "DejaVu Sans Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansMono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Serif",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSerif.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Fira Sans Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/FiraSans-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Mono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "QuickSand",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/QuickSand.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Segoe UI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
-      "format": "truetype"
-    }
-  ],
-  "emojis": [
-    {
-      "name": "Noto Color Emoji 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/notocoloremoji.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Moji Black 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojiblack.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Moji Color 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojicolor.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Sans 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/opensans.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Twemoji 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/twemoji.ttf",
+      "name": "Cochin",
+      "url": "https://github.com/oiaswang/larafonts/raw/refs/heads/main/fonts/Cochin.ttc",
       "format": "truetype"
     }
   ]
